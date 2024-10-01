@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "Melodia",
+    "slug": "melodia-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./MELODIA/LOGO-MELODIA-17.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./MELODIA/LOGO-MELODIA-17.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "requireFullScreen": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "",
+        "NSMicrophoneUsageDescription": "Allow $(PRODUCT_NAME) to access your microphone",
+        "NSAppTransportSecurity": {
+          "NSAllowsArbitraryLoads": true
+        }
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./MELODIA/LOGO-MELODIA-17.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.resolveaitech.melodiamobile"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "usesCleartextTraffic": true
+          },
+          "ios": {
+            "flipper": true
+          }
+        }
+      ]
+    ],
+    "web": {
+      "favicon": "./MELODIA/LOGO-MELODIA-17.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fc263d03-3af5-48b7-8ad9-a277a936e87a"
+      }
+    }
+  }
+}

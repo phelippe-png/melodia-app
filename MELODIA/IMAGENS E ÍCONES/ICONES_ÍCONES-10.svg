@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="BACKGROUND" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #34393f;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="32.3 22.4 32.3 31.66 27.47 31.66 27.47 28.53 25.01 27.15 22.52 28.53 22.52 31.66 17.7 31.66 17.7 22.4 25.03 18.34 32.3 22.4"/>
+</svg>

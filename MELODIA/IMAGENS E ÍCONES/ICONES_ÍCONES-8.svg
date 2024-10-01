@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="BACKGROUND" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_3);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_3" data-name="Degradado sin nombre 3" x1="18.05" y1="25" x2="35.96" y2="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bc3aff"/>
+      <stop offset="1" stop-color="#bc3aff"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-1" d="M35.35,23.94l-7.73-4.46c-.38-.22-.85-.22-1.23,0-.38.22-.61.62-.61,1.06v2.34l-5.9-3.4c-.38-.22-.85-.22-1.23,0-.38.22-.61.62-.61,1.06v8.93c0,.44.23.84.61,1.06.19.11.4.16.61.16s.42-.05.61-.16l5.9-3.4v2.34c0,.44.23.84.61,1.06.19.11.4.16.61.16s.42-.05.61-.16l7.73-4.46c.38-.22.61-.62.61-1.06s-.23-.84-.61-1.06Z"/>
+</svg>
